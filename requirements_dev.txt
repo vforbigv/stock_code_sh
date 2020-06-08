@@ -1,0 +1,10 @@
+pre-commit
+black
+pylint
+flake8
+coverage
+Sphinx
+pytest
+pytest-cov
+tox
+bumpversion
